@@ -5,22 +5,22 @@ This project detects whether a given text is AI-generated or human-written from 
 -ANN
 -Bidirectional LSTM
 
-##Features
+## Features
 -PDF input support
 -Text Preprocessing
 -Duel Model prediction
 - Confidence-baased decision
 
-##Technologies
+## Technologies
 -Python
 -TensorFlow/Keras
 -Scikit-learn
 -PyPDF2
 
-##How it works
+## How it works
 1.Upload a PDF
 2.System extracts the texts
 3.Models predict the result
 
-##Output
+## Output
 -AI generated or Human Written with a Confidence Score
